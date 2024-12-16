@@ -9,11 +9,11 @@ import asyncio, datetime, time
 ACCEPTED_TEXT = "Hey {user}\n\nYour Request For {chat} Is Accepted ✅"
 START_TEXT = "Hai {}\n\nI am Auto Request Accept Bot With Working For All Channel. Add Me In Your Channel To Use"
 
-API_ID = int(env.get('API_ID'))
-API_HASH = env.get('API_HASH')
-BOT_TOKEN = env.get('BOT_TOKEN')
-DB_URL = env.get('DB_URL')
-ADMINS = int(env.get('ADMINS'))
+API_ID = int(env.get('22768311'))
+API_HASH = env.get('702d8884f48b42e865425391432b3794"')
+BOT_TOKEN = env.get('')
+DB_URL = env.get('Naruto_Shippunden_In_Hindi_Dub')
+ADMINS = int(env.get('6040503076'))
 
 Dbclient = AsyncIOMotorClient(DB_URL)
 Cluster = Dbclient['Cluster0']
